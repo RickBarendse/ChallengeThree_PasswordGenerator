@@ -9,7 +9,7 @@ A website used to generate a secure password randomly based on user inputs for p
 *JavaScript
 
 ## Website
-https://rickbarendse.github.io/CcdhallengeThree_PasswordGenerator/
+https://rickbarendse.github.io/ChallengeThree_PasswordGenerator/
 
 
 ## Contribution
